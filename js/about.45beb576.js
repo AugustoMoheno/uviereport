@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkuviereport"]=self["webpackChunkuviereport"]||[]).push([[443],{7381:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var u=r(3396);const t={class:"about"},a=(0,u._)("h1",null,"This is an about page",-1),s=[a];function i(e,n){return(0,u.wg)(),(0,u.iD)("div",t,s)}var c=r(89);const o={},f=(0,c.Z)(o,[["render",i]]);var l=f}}]);
-//# sourceMappingURL=about.45beb576.js.map

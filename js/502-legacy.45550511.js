@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkuviereport"]=self["webpackChunkuviereport"]||[]).push([[502],{1502:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("h1",[e._v("Datos del cliente hay que teneer todo en cuenta..")])},l=[],r={name:"ClientDetail"},a=r,c=n(1001),i=(0,c.Z)(a,u,l,!1,null,null,null),o=i.exports}}]);
-//# sourceMappingURL=502-legacy.45550511.js.map
